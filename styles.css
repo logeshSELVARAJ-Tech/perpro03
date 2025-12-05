@@ -95,7 +95,7 @@ body {
 }
 
 .loading-bar {
-    width: 450px;
+    width: 500px;
     height: 2px;
     background: var(--gray);
     border-radius: 1px;
@@ -1215,6 +1215,7 @@ body {
         text-align: center;
     }
 }
+
 
 
 
