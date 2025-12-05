@@ -95,7 +95,7 @@ body {
 }
 
 .loading-bar {
-    width: 400px;
+    width: 450px;
     height: 2px;
     background: var(--gray);
     border-radius: 1px;
@@ -106,7 +106,7 @@ body {
     height: 100%;
     width: 0%;
     background: linear-gradient(90deg, var(--primary), var(--accent));
-    animation: loading 2s ease-in-out forwards;
+    animation: loading 3s ease-in-out forwards;
 }
 
 /* Navigation */
@@ -1215,6 +1215,7 @@ body {
         text-align: center;
     }
 }
+
 
 
 
