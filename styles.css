@@ -52,7 +52,7 @@ body {
     align-items: center;
     justify-content: center;
     z-index: 9999;
-    transition: opacity 0.6s, visibility 0.6s;
+    transition: opacity 0.6s, visibility 1s;
 }
 
 .loading-logo {
@@ -95,7 +95,7 @@ body {
 }
 
 .loading-bar {
-    width: 200px;
+    width: 400px;
     height: 2px;
     background: var(--gray);
     border-radius: 1px;
@@ -1215,6 +1215,7 @@ body {
         text-align: center;
     }
 }
+
 
 
 
